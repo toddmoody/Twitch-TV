@@ -17,6 +17,8 @@ Basic web app to display the live streaming status of a select group of Twitch T
 
 App home page displaying default 'all channel' view.
 
+https://github.com/toddmoody/Twitch-TV/blob/master/twitch-tv-grab.png
+
 --- Technology ---
 
 HTML
